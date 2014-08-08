@@ -4,5 +4,6 @@ module.exports.helloWorld = function(){
 ;
 
 module.exports.multiply = function(a,b){
-	return a*b;
+	 return a*b;
 };
+//fixed
