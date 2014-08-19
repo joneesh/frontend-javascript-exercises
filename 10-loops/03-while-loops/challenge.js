@@ -4,7 +4,7 @@ module.exports.stream = function(conditionalFn,actionFn){
 	}
 	return false;
 };
-
+//
 module.exports.sumNumbers = function(a){
 	var counter = 0; 
 	var sum = 0;
