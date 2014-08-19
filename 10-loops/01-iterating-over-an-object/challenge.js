@@ -5,7 +5,7 @@ array.push(property);
 }; 
 return array; 
 };
-
+//
 
 module.exports.getValues = function(input){
 var array = [];
